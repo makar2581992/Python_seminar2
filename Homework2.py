@@ -24,3 +24,15 @@
 # for i in range(1, n+1):
 #    factorial = factorial * i
 #    print(factorial, end=' ')
+
+
+
+
+
+# Реализуйте алгоритм перемешивания списка.
+
+# list = ['Дом', 'Life', 853, 'Home', 487]
+# print(list) 
+# import random
+# random.shuffle(list)
+# print(list) 
